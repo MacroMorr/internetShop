@@ -1,5 +1,6 @@
 <?php
-require_once ('./components.php');
+require_once ('./php/classCreateDB.php');
+require_once ('./php/components.php');
 ?>
 
 <!doctype html>
